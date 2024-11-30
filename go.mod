@@ -1,4 +1,4 @@
-module github.com/maddyblue/nsf
+module github.com/potpiefox/nsf
 
 go 1.23.1
 
