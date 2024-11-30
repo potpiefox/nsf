@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"time"
 
-	"github.com/maddyblue/nsf/cpu6502"
+	"github.com/potpiefox/nsf/cpu6502"
 )
 
 const (
